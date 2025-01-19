@@ -1,0 +1,2 @@
+Hi, my name is Shubhanshu and I live in Nagpur.
+This is a test text file to practice file I/O operations.
